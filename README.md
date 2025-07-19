@@ -1,6 +1,3 @@
-Absolutely! Here's a beautifully formatted, clean, and professional `README.md` tailored for your Terraform AWS Medicare Infrastructure project:
-
----
 
 ```markdown
 # 🌐 Terraform AWS Medicare Infrastructure
@@ -8,32 +5,6 @@ Absolutely! Here's a beautifully formatted, clean, and professional `README.md` 
 A production-ready **Infrastructure as Code (IaC)** project using **Terraform** to provision scalable AWS infrastructure for the **MediCare web application**. This setup includes **VPC**, **EC2**, **S3**, and remote state management using **S3 + DynamoDB**.
 
 ---
-
-## 📁 Project Structure
-
-```
-
-terraform/
-├── dev/
-│   ├── main.tf
-│   ├── variables.tf
-│   ├── terraform.tfvars
-│   └── backend.tf
-├── modules/
-│   ├── vpc/
-│   │   ├── main.tf
-│   │   ├── variables.tf
-│   ├── ec2/
-│   │   ├── main.tf
-│   │   ├── variables.tf
-│   ├── s3/
-│   │   ├── main.tf
-│   │   ├── variables.tf
-├── global/
-│   └── backend/
-│       └── s3\_backend.tf
-
-````
 
 ---
 
