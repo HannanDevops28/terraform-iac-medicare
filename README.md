@@ -131,7 +131,7 @@ DevOps & Frontend Developer
 
 ## 📜 License
 
-MIT License - free to use with attribution.
+Education From Cradel To Grave.
 
 ```
 
